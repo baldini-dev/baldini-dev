@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python and SQL**
 
-- ❤ I like to **Play video games and read**
-
 - 📫 How to reach me **ixgobxldini@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
