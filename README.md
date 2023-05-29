@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baldini-dev&theme=tokyonight" alt="baldini-dev" /></p>
 
-![Snake animation](https://github.com/baldini-dev/baldini-dev/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/baldini-dev/baldini-dev/blob/output/github-contribution-grid-snake.svg)
