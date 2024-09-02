@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iago Baldini</h1>
 <h3 align="center">I'm a Cumputer Cience student on FACAPE</h3>
 
-- 🌱 I’m currently learning **Python, SQL, JAVA and JS**
+- 🌱 I’m currently learning **Python and Database (SQL and NoSQL)**
 
 - 📫 How to reach me **ixgobxldini@gmail.com**
 
